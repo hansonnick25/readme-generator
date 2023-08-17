@@ -130,5 +130,4 @@ dist
 .pnp.*
 
 # custom ignore
-package-lock.json
-package.json
+.vscode
